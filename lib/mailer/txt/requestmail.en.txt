@@ -1,0 +1,9 @@
+You requested a new diarde password. Use following link to enter a new password:
+
+{{link}}
+
+We take privacy and the security of your account very seriously, too. In case you did not
+request this email or the content of an email seems suspicious to you, please forward
+the email to Diarde.
+
+We are looking forward to seeing you again soon at Diarde.

@@ -1,0 +1,9 @@
+Welcome, you have registered on Diarde. Use following link to verify your new account:
+
+{{link}}
+
+We take privacy and the security of your account very serious, too. In case you did not
+register with our service or the content of an email seems suspicious to you, please forward
+the email to Diarde.
+
+We are looking forward to seeing you soon at Diarde.

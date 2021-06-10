@@ -1,0 +1,10 @@
+Sie haben ein neues Passwort für Diarde beantragt. Unter folgendem Link können Sie ein neues Passwort
+eingeben:
+
+{{link}}
+
+Auch wir nehmen Datenschutz und die Sicherheit Ihres Kontos sehr ernst. Wenn Sie diesen Link nicht
+angefordert haben oder der Inhalt einer Email Ihnen verdächtig vorkommt, leiten Sie die Email bitte
+an Diarde weiter.
+
+Wir freuen uns, Sie bald wieder auf unserer Plattform begrüssen zu können.

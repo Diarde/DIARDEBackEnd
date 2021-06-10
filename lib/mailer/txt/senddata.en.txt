@@ -1,0 +1,6 @@
+You have requested data files for the project: {{project}} and room: {{room}}.
+Please find attached the files you have requested.
+
+Auch wir nehmen Datenschutz und die Sicherheit Ihres Kontos sehr ernst. Wenn Sie diesen Link nicht
+angefordert haben oder der Inhalt einer Email Ihnen verdächtig vorkommt, leiten Sie die Email bitte
+an Diarde weiter.
